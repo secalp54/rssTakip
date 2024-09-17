@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 from docx import Document
 import requests
+import feedparser
 
 input("Rss programına hoşgeldiniz.Devam etmek için enter tuşuna basınız.")
 items=[]

@@ -1,4 +1,14 @@
-MEDEK
-Eğitim
-Sakarya
-hendek
+EĞİTİM
+TÜBİTAK
+TEKNOFEST
+ERASMUS
+COŞKUN BAKIRTAŞ
+MİLLİ EĞİTİM
+MİLLÎ EĞİTİM
+YARIŞMA
+İLKOKUL
+ORTAOKUL
+LİSE
+OKUL
+üniversite
+fakülte
